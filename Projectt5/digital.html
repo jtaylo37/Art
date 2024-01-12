@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>digital</title>
+<style type="text/css">
+body {
+	background-color: #D9D9D9;
+}
+</style>
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('buildingbigger.png','sunsetbigger.png','bottlebigger.png','jazzbigger.png')">
+<table width="2139" height="105" border="50" align="center">
+  <tbody>
+    <tr>
+      <td align="center"><h1>Digital</h1></td>
+    </tr>
+  </tbody>
+</table>
+<h1>	*Click	on images for more info</h1>
+<table width="1069" height="1001" border="0" align="center">
+  <tbody>
+    <tr>
+      <td height="995" align="center"><img src="buildingbigger.png" alt="" width="1013" height="954" id="change"/></td>
+    </tr>
+  </tbody>
+</table>
+<table width="913" height="253" border="0" align="center">
+  <tbody>
+    <tr>
+      <td width="248" height="247" align="center"><a href="build.html"><img src="LAST ONE.png" alt="" width="219" height="173" id="building" onMouseOver="MM_swapImage('change','','buildingbigger.png',1)"/></a></td>
+      <td width="253" align="center"><a href="sun.html"><img src="NEED.png" alt="" width="209" height="189" id="sunset" onMouseOver="MM_swapImage('change','','sunsetbigger.png',1)"/></a></td>
+      <td width="247" align="center"><a href="face.html"><img src="USE.png" alt="" width="208" height="197" id="bottle" onMouseOver="MM_swapImage('change','','bottlebigger.png',1)"/></a></td>
+      <td width="247" align="center"><a href="jazzy.html"><img src="jazz.jpg" alt="" width="151" height="230" id="jazz" onMouseOver="MM_swapImage('change','','jazzbigger.png',1)"/></a></td>
+    </tr>
+  </tbody>
+</table>
+<p><a href="index.html">&lt;&lt; Home</a></p>
+</body>
+</html>

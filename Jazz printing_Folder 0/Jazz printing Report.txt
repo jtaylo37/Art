@@ -1,0 +1,64 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Jazz printing.pdf
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: inches
+Artboard Dimensions: 11 in x 17 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Bauhaus 93 (OTF)
+Algerian (OTF)
+Arial Rounded MT Bold (OTF)
+Ravie (OTF)
+Papyrus (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+
+imgbin-mellophone-microphone-trumpet-logo-silhouette-microphone-V3Gq1KVSCGgMBPQ3znDfQYfZ0.jpg
+Type: Other
+
+115-1154306_singer-silhouette-png-jazz-singer-female-silhouette.png.jpeg
+Type: Other
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\UMD\ARTT255\music2.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 147K, 244 by 207 pixels
+Dimensions: 244 by 207 points 
+Resolution: 72 by 72 pixels per inch
+
+
+C:\UMD\ARTT255\music.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1879K, 900 by 713 pixels
+Dimensions: 418.132 by 327 points 
+Resolution: 154.975 by 156.991 pixels per inch
